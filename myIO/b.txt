@@ -1,0 +1,5061 @@
+哇哇哇哇哇
+阿达伟大阿文女单大家那就我把电话爱看你但唯独完毕我nkdsadaw
+a是dawn门打开iw的爱神a
+是啊大的面积为啊
+是定位 阿萨
+ 撒旦阿文
+是ad爱神
+ 
+撒d
+ wa的
+aw 
+waf
+ wa
+ 
+ad
+ r给
+
+ 撒旦我的 是的爱神大大王的 阿文的我我挖坟挖坟 提供符合  
+
+wa我发我
+请问企鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅
+我去谔谔谔谔谔谔谔谔谔谔谔谔谔谔谔谔
+ qweeeeeeeeeeeeeeeeee 请问谔谔谔谔谔谔谔谔谔谔谔谔
+
+
+
+
+ 我去谔谔谔谔谔谔谔谔谔谔谔谔谔谔谔谔
+ Reggie负电荷水水水水十大
+地方孬工爬过
+倒数那么个破魔炮吗
+是的啊尼玛个名片给
+第三个memo苹果默认怕他们
+的发呢是你公婆【排位为你你哦那我曲儿夫人你莫怕额你哦闻佛恩物体分割
+僧被少年宫冒泡
+十分Gino耳畔莫格log
+而是干嘛呢joie蘑菇
+而宋公明龙马童话么是慢拍
+色过分么是否满
+二十个年末人民和，花盆
+二十个农民宋平公凭什么篇
+而是呢送个松平你给grin
+鞥ionrehgionospeg发呢哦i送哦
+‘二Gino i嗯哦nms 而是能够i闹
+额告诉你呢偶是工棚
+i呢公开ions给你们呢容平时goes吗
+二十个neon共模胚沙漠
+鞥欸宋恩ops非农i农民死哦给哦那个
+二十个那你日哦内NSF你哦额
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
+package com.wkh.demo2.copy;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Date;
+
+public class MyCopyDemo1 {
+    public static void main(String[] args) throws IOException {
+        //把文件拷贝到当前模块下
+        //创建对象
+        FileInputStream fis = new FileInputStream("D:\\flieTest\\b.txt");
+        FileOutputStream fos = new FileOutputStream("myIO\\b.txt");
+        //拷贝
+        //读一个写一个
+        Date date = new Date();
+        long start = date.getTime();
+        int b;
+        while ((b = fis.read())!=-1){
+            fos.write(b);
+        }
+        //释放资源
+        fos.close();
+        fis.close();
+        long end = date.getTime();
+        System.out.println(end-start);
+    }
+}
